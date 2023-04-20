@@ -241,7 +241,7 @@
         <ctl name="Output Compensation Switch" value="1" />
         <ctl name="HP Switch" value="1" />
         <ctl name="Noise Gate Switch" value="0" />
-        <ctl name="HPOUT1 Digital Volume" value="115" />
+        <ctl name="HPOUT1 Digital Volume" value="145" />
         <ctl name="HPOUT1L Input 1 Volume" value="32" />
         <ctl name="HPOUT1R Input 1 Volume" value="32" />
     </path>
@@ -294,7 +294,7 @@
     <path name="voice-headphones">
         <path name="headphones" />
         <ctl name="Noise Gate Switch" value="0" />
-        <ctl name="HPOUT1 Digital Volume" value="116" />
+        <ctl name="HPOUT1 Digital Volume" value="145" />
         <ctl name="HPOUT1L Input 1 Volume" value="32" />
         <ctl name="HPOUT1R Input 1 Volume" value="32" />
         <ctl name="HPOUT1L Input 2 Volume" value="32" />
